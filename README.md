@@ -20,12 +20,12 @@ The goal is to: - Analyze financial risk patterns
 
 ## 🎯 Project Objectives
 
-✔ Perform descriptive statistical analysis
-✔ Compute default probability
-✔ Apply conditional probability
-✔ Visualize distributions
-✔ Analyze skewness & kurtosis
-✔ Implement linear algebra operations
+✔ Perform descriptive statistical analysis/
+✔ Compute default probability/
+✔ Apply conditional probability/
+✔ Visualize distributions/
+✔ Analyze skewness & kurtosis/
+✔ Implement linear algebra operations/
 ✔ Extract business insights
 
 ------------------------------------------------------------------------
